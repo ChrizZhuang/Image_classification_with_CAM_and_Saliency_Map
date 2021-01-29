@@ -1,2 +1,2 @@
-# Image_classification_with_CAM_and_Saliency_Map
-Image classification with Class Activation Map and Saliency Map for cat and dog classification
+# Image_classification_Cats_and_Dogs
+Image classification with class activation map (CAM) and saliency map for cats and dogs classification
